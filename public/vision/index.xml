@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Genesis... on Bundle Feed Protocol</title>
+    <link>https://bundlefeed.org/vision/</link>
+    <description>Recent content in The Genesis... on Bundle Feed Protocol</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://bundlefeed.org/vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Vision</title>
+      <link>https://bundlefeed.org/vision/vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundlefeed.org/vision/vision/</guid>
+      <description>The purpose of this document is to describe the Bundle Feed Protocol and the applications that can be built on top of it. The network is designed to address the challenges and limitations of centralized services, such as lack of control over personal data and privacy concerns, by providing users with a decentralized, secure and private alternative. We will explain the main concepts and ideas behind the project, its key features and the benefits it can provide to users.</description>
+    </item>
+    
+  </channel>
+</rss>

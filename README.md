@@ -1,2 +1,4 @@
-# website
-Main website of the Bundle Protocol Chain (aka Secure Scuttlebutt - Next)
+## Website of the project
+
+The website of the project is available at https://bundlefeed.org
+

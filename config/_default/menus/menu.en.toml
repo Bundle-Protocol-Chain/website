@@ -1,0 +1,12 @@
+#  menu items
+
+[[main]]
+  name = "Our Vision"
+  weight = 1
+  url = "vision/"
+
+[[main]]
+  name = "Specifications"
+  weight = 2
+  url = "specs/"
+

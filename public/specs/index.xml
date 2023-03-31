@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Specifications on Bundle Feed Protocol</title>
+    <link>https://bundlefeed.org/specs/</link>
+    <description>Recent content in Specifications on Bundle Feed Protocol</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://bundlefeed.org/specs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementations</title>
+      <link>https://bundlefeed.org/specs/impl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bundlefeed.org/specs/impl/</guid>
+      <description>Main components Related projects and contributions https://github.com/gpicron/nim_node_binding https://github.com/gpicron/jsony </description>
+    </item>
+    
+  </channel>
+</rss>
